@@ -1,5 +1,5 @@
 ## Hey there! My name is Steve Halliwell
-I'm a programmer of games and tools, an open-source fan, and a tertiary educator in creative media. I’m currently the maintainer of [Fungus](https://github.com/snozbot/fungus) and working at [An Imagined Reality](https://animaginedreality.com) and SAE Creative Media Institute, Brisbane Campus.
+I'm a programmer of games and tools, an open-source fan. I’m currently the maintainer of [Fungus](https://github.com/snozbot/fungus) and working at [An Imagined Reality](https://animaginedreality.com).
 
 ## Where to find me
  - Twitter : [_stevehalliwell](https://twitter.com/_stevehalliwell)
