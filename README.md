@@ -1,5 +1,7 @@
 ## Hey there! My name is Steve Halliwell
-I'm a programmer of games and tools, an open-source fan. I’m currently the maintainer of [Fungus](https://github.com/snozbot/fungus) and working at [An Imagined Reality](https://animaginedreality.com).
+I'm a programmer of games and tools, an open-source fan. I work at [An Imagined Reality](https://animaginedreality.com), on a variety of projects. You can check out our open-source projects [here](https://github.com/AnImaginedReality).
+
+I’m currently the maintainer of [Fungus](https://github.com/snozbot/fungus), an easy to use Unity 3D library for creating illustrated Interactive Fiction games and more.
 
 ## Where to find me
  - Twitter : [_stevehalliwell](https://twitter.com/_stevehalliwell)
