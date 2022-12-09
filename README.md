@@ -9,6 +9,12 @@ I’m currently the maintainer of [Fungus](https://github.com/snozbot/fungus), a
  - Twitter : [_stevehalliwell](https://twitter.com/_stevehalliwell)
  - Blog (Old, Archived) : https://stevehalliwell.github.io/site/
 
+## Contact
+ - Twitter DM : [_stevehalliwell](https://twitter.com/_stevehalliwell)
+ - Email
+   - RE Fungus: funguswork at stevehalliwell dot com
+   - RE Work/Consulting: steve at stevehalliwell dot com
+
 ## GitHub Stats
 [![Steve Halliwell's github stats](https://github-readme-stats.vercel.app/api?username=stevehalliwell&hide=stars,contribs&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevehalliwell&layout=compact&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true&hide=asp)](https://github.com/anuraghazra/github-readme-stats)
