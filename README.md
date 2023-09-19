@@ -7,6 +7,7 @@ I’m currently the maintainer of [Fungus](https://github.com/snozbot/fungus), a
  - Itch.io : [stevehalliwell](https://stevehalliwell.itch.io/)
  - LinkedIn : [shalliwell](https://www.linkedin.com/in/shalliwell/)
  - Twitter : [_stevehalliwell](https://twitter.com/_stevehalliwell)
+ - Medium : [@halliwell.steve](https://medium.com/@halliwell.steve)
  - Blog (Old, Archived) : https://stevehalliwell.github.io/site/
 
 ## Contact
