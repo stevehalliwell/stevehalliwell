@@ -3,7 +3,7 @@ I'm a programmer of games and tools, an open-source fan. I work at [Actuator](ht
 
 I’m currently the maintainer of [Fungus](https://github.com/snozbot/fungus), an easy to use Unity 3D library for creating illustrated Interactive Fiction games and more.
 
-## Where to find me
+## Where to find more
  - Itch.io : [stevehalliwell](https://stevehalliwell.itch.io/)
  - LinkedIn : [shalliwell](https://www.linkedin.com/in/shalliwell/)
  - Twitter : [_stevehalliwell](https://twitter.com/_stevehalliwell)
@@ -14,7 +14,7 @@ I’m currently the maintainer of [Fungus](https://github.com/snozbot/fungus), a
  - Twitter DM : [_stevehalliwell](https://twitter.com/_stevehalliwell)
  - Email
    - RE Fungus: funguswork at stevehalliwell dot com
-   - RE Work/Consulting: steve at stevehalliwell dot com
+   - RE Jobs/Contracting/Saying Hi: steve at stevehalliwell dot com
 
 ## GitHub Stats
 [![Steve Halliwell's github stats](https://github-readme-stats.vercel.app/api?username=stevehalliwell&hide=stars,contribs&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
